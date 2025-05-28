@@ -12,31 +12,31 @@
       "ID": 1,
       "Name": "Arsenal Maybe",
       "ShortName": "MCN",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Arsenal_FC_logo.svg.png"
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/image/128x128.jpg"
     },
     {
       "ID": 21,
       "Name": "Chelsea Maybe",
       "ShortName": "CHE",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg.png"
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/image/128x128.png"
     },
     {
       "ID": 47,
       "Name": "Man City Maybe",
       "ShortName": "MCI",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa_detail_face.jpg/400px-Mona_Lisa_detail_face.jpg"
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/image/64x64.jpg"
     },
     {
       "ID": 49,
       "Name": "Man United Maybe",
       "ShortName": "MUN",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg"
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/image/64x64.png"
     },
     {
       "ID": 44,
       "Name": "Barcelona Maybe",
       "ShortName": "BAR",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif"
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/image/images.png"
     }
   ],
   "LeagueData": [
