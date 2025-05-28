@@ -1,0 +1,17 @@
+{ 
+ "ClubData": [ 
+  { 
+   "ID": 1, 
+   "Name": "Arsenal", 
+   "ShortName": "ARS", 
+   "ImageURL": "<insert imageurl>" 
+  } 
+ ], 
+ "LeagueData": [ 
+  { 
+   "ID": 28, 
+   "Name": "League Name", 
+   "ImageURL": "<insert imageurl>" 
+  } 
+ ], 
+}
