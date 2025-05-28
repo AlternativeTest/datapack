@@ -1,44 +1,44 @@
-{ 
- "PlayerData": [ 
-  { 
-   "ID": 1, 
-   "Forename": "Player Forename", 
-   "Surname": "Player Surname", 
-   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
-  }, 
-  { 
-   "ID": 2, 
-   "Forename": "Player Forename", 
-   "Surname": "Player Surname", 
-   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
-  } 
- ], 
- "ClubData": [ 
-  { 
-   "ID": 1, 
-   "Name": "Club Name", 
-   "ShortName": "MCN", 
-   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
-  } 
- ], 
- "LeagueData": [ 
-  { 
-   "ID": 28, 
-   "Name": "League Name", 
-   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
-  } 
- ], 
- "CupData": [ 
-  { 
-   "ID": 2, 
-   "Name": "Cup Name", 
-   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
-  } 
- ], 
- "StadiumData": [ 
-  { 
-   "ID": 1, 
-   "Name": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
-  } 
- ] 
+{
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Player Forename",
+      "Surname": "Player Surname",
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/Arsenal_FC.png"
+    },
+    {
+      "ID": 2,
+      "Forename": "Player Forename",
+      "Surname": "Player Surname",
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/Arsenal_FC.png"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Club Name",
+      "ShortName": "MCN",
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/Arsenal_FC.png"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "League Name",
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/Arsenal_FC.png"
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "Cup Name",
+      "ImageURL": "https://raw.githubusercontent.com/AlternativeTest/datapack/main/Arsenal_FC.png"
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Emirates Stadium"
+    }
+  ]
 }
