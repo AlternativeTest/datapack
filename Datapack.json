@@ -4,13 +4,13 @@
    "ID": 1, 
    "Forename": "Player Forename", 
    "Surname": "Player Surname", 
-   "ImageURL": "datapack/Arsenal_FC.png" 
+   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
   }, 
   { 
    "ID": 2, 
    "Forename": "Player Forename", 
    "Surname": "Player Surname", 
-   "ImageURL": "datapack/Arsenal_FC.png" 
+   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
   } 
  ], 
  "ClubData": [ 
@@ -18,27 +18,27 @@
    "ID": 1, 
    "Name": "Club Name", 
    "ShortName": "MCN", 
-   "ImageURL": "datapack/Arsenal_FC.png" 
+   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
   } 
  ], 
  "LeagueData": [ 
   { 
    "ID": 28, 
    "Name": "League Name", 
-   "ImageURL": "datapack/Arsenal_FC.png" 
+   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
   } 
  ], 
  "CupData": [ 
   { 
    "ID": 2, 
    "Name": "Cup Name", 
-   "ImageURL": "datapack/Arsenal_FC.png" 
+   "ImageURL": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
   } 
  ], 
  "StadiumData": [ 
   { 
    "ID": 1, 
-   "Name": "datapack/Arsenal_FC.png" 
+   "Name": "https://github.com/AlternativeTest/datapack/blob/main/Arsenal_FC.png" 
   } 
  ] 
 }
