@@ -4,14 +4,14 @@
    "ID": 1, 
    "Name": "Arsenal", 
    "ShortName": "ARS", 
-   "ImageURL": "<insert imageurl>" 
+   "ImageURL": "datapack/Arsenal_FC.png" 
   } 
  ], 
  "LeagueData": [ 
   { 
    "ID": 28, 
-   "Name": "League Name", 
-   "ImageURL": "<insert imageurl>" 
+   "Name": "Barclay English", 
+   "ImageURL": "datapack/Premier-League-Logo.png" 
   } 
  ], 
 }
